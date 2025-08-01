@@ -59,9 +59,9 @@
 - Ứng dụng kỹ năng tiền xử lý, trích đặc trưng và mô hình hóa với scikit-learn
 
 
-<img width="404" height="450" alt="image" src="https://github.com/user-attachments/assets/82e46194-01c9-409a-978d-6130b71685be" />
 
 ---
+<img width="404" height="450" alt="image" src="https://github.com/user-attachments/assets/267321ca-6442-4d93-b119-65d0b8e76b3e" />
 
 
  📌 Ghi chú
