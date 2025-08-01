@@ -72,3 +72,6 @@
 - Có thể cải tiến bằng cách dùng CNN (Convolutional Neural Network) thay cho đặc trưng thủ công.
 
 ---
+
+<img width="547" height="469" alt="image" src="https://github.com/user-attachments/assets/01d66536-fcbd-4ffd-9eb5-0c8babb4204c" />
+
