@@ -11,8 +11,6 @@
 - Mỗi lớp là một thư mục chứa các ảnh tương ứng.
 - Dữ liệu được lưu trong Google Drive: `/content/drive/MyDrive/class/trainingset`
 
-![Kết quả mô hình](<img width="547" height="469" alt="image" src="https://github.com/user-attachments/assets/42904bbd-6dd4-4818-8532-b16808d2611e" />
-)
 
 ---
 
@@ -59,9 +57,6 @@
 - Accuracy (tùy thuộc dữ liệu và thông số) thường đạt từ 80–95%
 - Ứng dụng kỹ năng tiền xử lý, trích đặc trưng và mô hình hóa với scikit-learn
 
-
-![Kết quả mô hình](<img width="404" height="450" alt="image" src="https://github.com/user-attachments/assets/d9417c40-7072-473d-920d-6fc3a87e37ba" />
-)
 ---
 
 
@@ -72,6 +67,3 @@
 - Có thể cải tiến bằng cách dùng CNN (Convolutional Neural Network) thay cho đặc trưng thủ công.
 
 ---
-
-<img width="547" height="469" alt="image" src="https://github.com/user-attachments/assets/01d66536-fcbd-4ffd-9eb5-0c8babb4204c" />
-
