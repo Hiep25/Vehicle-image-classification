@@ -19,7 +19,7 @@
 | Loại công nghệ      | Thư viện cụ thể                         |
 |---------------------|-----------------------------------------|
 | Xử lý ảnh           | `OpenCV (cv2)`                          |
-| Xử lý dữ liệu       | `numpy`, `matplotlib`, `os`, `pickle`  |
+| Xử lý dữ liệu       | `numpy`, `matplotlib`, `os`, `pickle`   |
 | Học máy             | `scikit-learn` (`KMeans`, `SVM`)        |
 | Lưu mô hình         | `pickle`                                |
 
